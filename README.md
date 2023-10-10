@@ -23,7 +23,12 @@ Average reading score
 ![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/6440d07f-943b-4005-b4c5-2eaad7569906)
 
 % passing math (the percentage of students who passed math)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/7af81664-5a0b-4c1b-9182-96f2f4b83592)
+
 
 % passing reading (the percentage of students who passed reading)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/383ede6c-413a-4ad2-8c3c-65b841f1d78b)
+
 
 % overall passing (the percentage of students who passed math AND reading)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/6f448362-5543-4ab5-b94a-9e6cff33c069)
