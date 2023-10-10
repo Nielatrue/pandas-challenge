@@ -16,7 +16,8 @@ Total budget
 
 
 Average math score
-![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/6710abcd-7aee-4912-910c-9d78f4cb9efb)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/ac59647b-4f8b-4a03-a99d-9f949582bde2)
+
 
 
 Average reading score
