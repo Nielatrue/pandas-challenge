@@ -27,7 +27,8 @@ Average reading score
 
 
 % passing reading (the percentage of students who passed reading)
-![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/383ede6c-413a-4ad2-8c3c-65b841f1d78b)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/149d2cad-06b2-4efe-a467-4265cfcfe81a)
+
 
 
 % overall passing (the percentage of students who passed math AND reading)
