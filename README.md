@@ -24,7 +24,8 @@ Average reading score
 ![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/f49effd9-4ce8-4f3b-8b27-0ec61db79485)
 
 
-![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/5a30ec42-41ca-4a5f-8087-13a9315515df)
+![image](https://github.com/Nielatrue/pandas-challenge/assets/144754677/b922ade6-05ad-426c-88f4-abed8e7d6bdc)
+
 
 
 
